@@ -10,7 +10,7 @@ jobs:
           sudo apt install splint
       - name: Check code
         run: |
-          splint --compdef --exportlocal simplecalculator.c operations.c
+          sudo splint --compdef --exportlocal simplecalculator.c operations.c
   unit-test:
     name: Unit test
     runs-on: ubuntu-latest
