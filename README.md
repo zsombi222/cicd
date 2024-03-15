@@ -1,7 +1,8 @@
 # CICD
 
-[![Actions Status]
-(https://github.com/zsombi222/cicd/workflows/Test,%20build%20and%20release/badge.svg)](https://github.com/zsombi222/cicd/actions)
+[![Actions Status](https://github.com/zsombi222/cicd/workflows/Test,%20build%20and%20release/badge.svg)](https://github.com/zsombi222/cicd/actions)
+
+[Click here for build](https://github.com/zsombi222/cicd/releases/tag/latest)
 
 This repository is a lab a exercise.
 
